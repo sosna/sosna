@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I have been working in IT since 1999, with a focus on statistical systems since 2005. During these years, I have worked as **software engineer**, scrum master and **solutions architect** to create solutions that handle the **ingestion, processing, analysis and dissemination of data**. In addition, I have represented two international organisations in the **ISO 17369** (SDMX) Technical Working Group.
+I have been working in IT since 1999, with a focus on statistical systems since 2005. During these years, I have developed solutions that handle the **ingestion, processing, analysis and dissemination of data**. 
 
-In my work, I strive to develop solutions that are, first of all, **correct** ;), **well-crafted**, **open to changes**, **standard-compliant**, **metadata-driven** and **well-tested**.
-
-My main professional interest at the moment is to architect **distributed reactive systems**.
+In my work, I strive to develop solutions that are, first of all, **correct** (no kidding ;)), **well-crafted**, **open to changes**, **standard-compliant**, **metadata-driven** and **well-tested**.
 
 I'm the author of the [NPM sdmx-rest package](https://www.npmjs.com/package/sdmx-rest) and one of the maintainers of the [SDMX-REST specification](https://github.com/sdmx-twg/sdmx-rest).
 
