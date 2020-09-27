@@ -10,6 +10,8 @@ I'm the author of the [NPM sdmx-rest package](https://www.npmjs.com/package/sdmx
 
 ### A few stats
 
+My profile on [Sourcerer](https://sourcerer.io/sosna).
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sosna&show_icons=true&hide_border=true&theme=vue&hide_title=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sosna)](https://github.com/sosna/github-profile-trophy)
