@@ -14,6 +14,6 @@ My profile on [Sourcerer](https://sourcerer.io/sosna).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sosna)](https://github.com/sosna/github-profile-trophy)
 
-### IT Motto
+### Favorite IT Motto
 
 > In the face of ambiguity, refuse the temptation to guess (PEP 20).
