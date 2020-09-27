@@ -6,7 +6,7 @@ In my work, I strive to develop solutions that are, first of all, **correct** ;)
 
 My main professional interest at the moment is to architect **distributed reactive systems**.
 
-I'm the author of the [NPM sdmx-rest package](https://www.npmjs.com/package/sdmx-rest).
+I'm the author of the [NPM sdmx-rest package](https://www.npmjs.com/package/sdmx-rest) and one of the maintainers of the [SDMX-REST specification](https://github.com/sdmx-twg/sdmx-rest).
 
 ### A few stats
 
