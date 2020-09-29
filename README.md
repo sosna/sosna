@@ -12,7 +12,7 @@ My profile on [Sourcerer](https://sourcerer.io/sosna).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sosna&show_icons=true&hide_border=true&theme=vue&hide_title=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sosna)](https://github.com/sosna/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sosna)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Favorite IT Motto
 
