@@ -8,8 +8,7 @@ I'm the author of the [NPM sdmx-rest package](https://www.npmjs.com/package/sdmx
 
 ### A few stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sosna&show_icons=true&hide_border=true&theme=vue&hide_title=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sosna&column=3&margin-w=0&margin-h=0&title=LongTimeUser,PullRequest,Experience,Issues,Commits,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sosna)](https://git.io/awesome-stats-card)
 
 ### Favorite IT Motto
 
